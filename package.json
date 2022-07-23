@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
+    "heroku": "^7.60.2",
     "path": "^0.12.7",
     "uniqid": "^5.4.0"
   },
