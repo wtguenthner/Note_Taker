@@ -153,7 +153,7 @@ const renderNoteList = async (notes) => {
 
       liEl.append(delBtnEl);
     }
-
+  
     return liEl;
   };
 
@@ -184,3 +184,5 @@ if (window.location.pathname === '/notes') {
 }
 
 getAndRenderNotes();
+
+
